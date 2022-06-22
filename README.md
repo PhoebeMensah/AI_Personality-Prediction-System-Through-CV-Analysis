@@ -67,6 +67,8 @@ python app.py
 ## Demo
 URL: http://phoebemensah.pythonanywhere.com/
 
+The video below shows a live demo of how the web application works.
+
 ## Background 
 
 There are various tests that help to determine personality types such as the Big Five, Rorschach test, and MBTI test. In this project, prediction of personality is done by considering the MBTI test.
